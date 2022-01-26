@@ -11,4 +11,4 @@ Now app available only in kazakh language.
 + Listen part of solat in arabic
 + Solat(Namaz) instruction(fajr, dhuhr, asr, magrib and isha) with images
 
-Developer - @Ongardev
+Developer - @Ongar.dev
