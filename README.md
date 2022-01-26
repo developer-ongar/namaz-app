@@ -1,4 +1,4 @@
-# Namaz Application written in Flutter
+# Namaz Application written in Flutter (Dart)
 
 ![alt text](https://lh3.googleusercontent.com/luxL1SxT0CwQV_DAaMf9A5paUVp6Kb88225hrjw4TWaJ5pAkwwiFgVpELyvVVf7Ycms=w1536-h763-rw)
 
